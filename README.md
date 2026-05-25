@@ -13,7 +13,8 @@ This repository provides a complete, step‑by‑step guide to installing **Open
 - Can run as a local agent with optional cloud management
 
 ## Quick Start
-
-1. git clone https://github.com/akorir08y/waf-homelab
-2. cd waf-homelab
-3. cat INSTALLATION.md
+```
+git clone https://github.com/akorir08y/waf-homelab
+cd waf-homelab
+cat INSTALLATION.md
+```
