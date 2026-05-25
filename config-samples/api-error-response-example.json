@@ -1,0 +1,12 @@
+{
+  "status": 400,
+  "code": "INVALID_INPUT_PARAMETERS",
+  "message": "The request body contains one or more fields that violate the API schema",
+  "traceId": "c1a7ef6d-9f11-4c3c-9212-efcf7c1d47b6a",
+  "details": [
+    {
+      "field": "user_name",
+      "error": "Cannot contain special characters."
+    }
+  ]
+}

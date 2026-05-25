@@ -1,0 +1,5 @@
+Action: Drop
+Condition (OR):
+  - File Type: Archive Files
+  - File Type: Executable Files
+  - File Name matches: .asp, .c, .cgi, .pl, .py, .php, .php5, .jsp, .bat, .aspx, .bin, .exe
